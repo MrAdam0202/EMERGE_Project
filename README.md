@@ -1,4 +1,4 @@
-# TFG_CarlosJara
+# Control and learning library
  Control, data generation and learning for an EMERGE robot adaptation
 
 This library includes 2 other libraries needed: zmqRemoteApi and DynamixelSDK
